@@ -1,6 +1,6 @@
 helloworld
 ==========
-# 我的第一个GitHub项目
+## 我的第一个GitHub项目
 
 这是项目 [helloworld](https://github.com/jysdu2006/helloworld) ，
 欢迎访问。
@@ -9,7 +9,7 @@ helloworld
 平台都有客户端工具可以访问。虽然版本库只提供Git一种格式，
 但是你还是可以用其他用其他工具访问，如 ``svn`` 和 ``hg`` 。
 
-## 版本库地址
+### 版本库地址
 
 支持三种访问协议：
 
@@ -17,7 +17,7 @@ helloworld
 * Git协议: `git://github.com/jysdu2006/helloworld.git` 。
 * SSH协议: `ssh://git@github.com/jysdu2006/helloworld.git` 。
 
-## 克隆版本库
+### 克隆版本库
 
 操作示例：
 
